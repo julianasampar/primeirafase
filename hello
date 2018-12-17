@@ -1,2 +1,4 @@
 #include <stdio.h>
-printf("Hello,world!\n");
+#include <cs50.h>
+
+printf("Hello, world!\n");
